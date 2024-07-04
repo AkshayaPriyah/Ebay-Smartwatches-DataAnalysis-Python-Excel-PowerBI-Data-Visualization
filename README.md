@@ -42,7 +42,7 @@ The dashboard includes both light theme and dark theme to draw attraction/intere
 Visualizations may include bar charts,pie charts, slicers,cards,table visuals,etc were used
 
 # 4. Key Deliverables
-1. Scraped Dataset: A CSV file containing the raw data collected from eBay.
+1. Scraped Dataset and Python file : python file showing webscraping code using beautiful soup that extracts information from website and CSV file containing the raw data collected from eBay.
 2. Cleaned Dataset: A cleaned and processed dataset ready for analysis.
 3. Power BI Dashboard: An interactive dashboard displaying key insights and metrics from the data.
 
